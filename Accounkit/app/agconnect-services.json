@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000027508378",
+		"product_id":"736430079244717069",
+		"client_id":"504419193316181184",
+		"client_secret":"CEF720AA51535E4871DC63A351D950D386DADCBEB590D124E3FC2557001C5EC4",
+		"project_id":"736430079244717069",
+		"app_id":"103362941",
+		"api_key":"CgB6e3x9Bk96KrZeMHdSOWJKNI0L4xn661afqRGPZwuGZrZQfMfvFRLxGYBE4dU+cOG9Niuvt6HzBvfFQkEurfgS",
+		"package_name":"com.cetron.kitapp"
+	},
+	"configuration_version":"1.0"
+}
